@@ -2,6 +2,10 @@ STEP BY STEP COMMANDS to convert JPG to PDF
 
 - mkdir JPGToPDFConverter
 
+- mkdir JPEGImages
+
+- mv /Users/UserNamer/Downloads/file.jpg /Users/UserNamer/Downloads/JPEGImages/
+
 - cd JPGToPDFConverter
 
 - python3 -m venv venv
