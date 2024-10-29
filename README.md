@@ -18,3 +18,4 @@ STEP BY STEP COMMANDS to convert JPG to PDF
 
 - nano src/jpg_to_pdf.py
 
+In the file pdf_to_jpeg.py change the UserName and replace the name of the files. 
